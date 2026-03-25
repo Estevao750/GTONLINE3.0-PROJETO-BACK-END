@@ -1,7 +1,5 @@
 # 🔌 Guia Rápido de Endpoints - GTONLINE 3.0
 
-**Guia de referência rápida para todos os endpoints disponíveis**
-
 ---
 
 ## 📌 Autenticação
@@ -307,6 +305,3 @@ Todos os IDs são **UUIDs** (não números):
 - Exemplo: `550e8400-e29b-41d4-a716-446655440000`
 - Copie do response anterior para usar em requisições subsequentes
 
----
-
-**Última atualização:** 24 de Março de 2026
